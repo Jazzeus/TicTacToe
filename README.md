@@ -3,7 +3,8 @@
 ### **Output from the game in the Command Line (in German):**
 ![TicTacToe](https://user-images.githubusercontent.com/71566988/115288448-be2d6100-a151-11eb-8544-ff3fd612ec7a.gif "Output from the game in the Command Line")
 ****
-A simple program for [TicTacToe](https://en.wikipedia.org/wiki/Tic-tac-toe).
+A simple program for [TicTacToe](https://en.wikipedia.org/wiki/Tic-tac-toe)
+*which you can only play in the console*.
 ****
 ## **But what is it all about?**
 Tic-tac-toe, is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. It is a solved game with a forced draw assuming best play from both players.
