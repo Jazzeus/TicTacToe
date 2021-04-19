@@ -1,4 +1,4 @@
-<h1 align="center">TicTacToe</h1>
+<h1 align="center">:game_die: TicTacToe :game_die:</h1>
 
 ### **Output from the game in the Command Line (in German):**
 ![TicTacToe](https://user-images.githubusercontent.com/71566988/115288448-be2d6100-a151-11eb-8544-ff3fd612ec7a.gif "Output from the game in the Command Line")
