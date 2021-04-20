@@ -47,7 +47,7 @@ public class TicTacToe {
         if (spieler1) {
             spielFeld[position[0]][position[1]] = 1; //greift auf arr zu mit der jeweiligen Stelle und weißt zahl1 & 2 position zu
         } else {
-            spielFeld[zeile][spalte] = 2;// Hier wird das ausgewählte Feld mit einer 1 oder 2 blockiert -> NOCH NICHT GANZ VERSTANDEN
+            spielFeld[zeile][spalte] = 2;// Hier wird das ausgewählte Feld mit einer 1 oder 2 blockiert
         }
     }
 
